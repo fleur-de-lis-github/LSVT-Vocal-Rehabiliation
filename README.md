@@ -4,11 +4,11 @@
 The condition can occur when there is a loss of brain cells that produce a chemical called dopamine. It usually presents in people over the age of 60, but it can present earlier in life as well. About 500,000 people in the U.S. have Parkinson's disease, with about 50,000 people being diagnosed each year. 
 
 ## Common Symptoms: 
-:chart_with_upwards_trend: Bend Soldier and Back 
-:chart_with_upwards_trend: Baby Steps 
-:chart_with_upwards_trend: Quaking of Hand while holding something 
-:chart_with_upwards_trend: Quaking of body while walking 
-:chart_with_upwards_trend: Low voice 
+:chart_with_upwards_trend: Bend Soldier and Back <br>
+:chart_with_upwards_trend: Baby Steps <br>
+:chart_with_upwards_trend: Quaking of Hand while holding something <br>
+:chart_with_upwards_trend: Quaking of body while walking <br>
+:chart_with_upwards_trend: Low voice <br>
 
 ## Lee Silverman and his voice treatment:
 ```diff
@@ -28,9 +28,9 @@ The condition can occur when there is a loss of brain cells that produce a chemi
 Our Goal (My Project): LSVT Voice Rehabilitation which stands for “Lee Silverman Voice Treatment” is the one of the treatments for it’s of the symptoms i.e., low voice. Through our datasets we will try to find out. Assess whether voice rehabilitation treatment leads to phonations considered 'acceptable' or 'unacceptable'.
 
 ## Dataset Information
-:clipboard:This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD.
+:books:This dataset is composed of a range of biomedical voice measurements from 31 people, 23 with Parkinson's disease (PD). Each column in the table is a particular voice measure, and each row corresponds one of 195 voice recording from these individuals ("name" column). The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD.
 
-:clipboard:The data is in ASCII CSV format. The rows of the CSV file contain an instance corresponding to one voice recording. There are around six recordings per patient, the name of the patient is identified in the first column.
+:books:The data is in ASCII CSV format. The rows of the CSV file contain an instance corresponding to one voice recording. There are around six recordings per patient, the name of the patient is identified in the first column.
 
 ### Source
 The dataset was created by Max Little of the University of Oxford, in collaboration with the National Centre for Voice and Speech, Denver, Colorado, who recorded the speech signals. The original study published the feature extraction methods for general voice disorders.
