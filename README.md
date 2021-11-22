@@ -13,6 +13,8 @@ The condition can occur when there is a loss of brain cells that produce a chemi
 ## Lee Silverman and his voice treatment:
 Dr. Lorraine Ramig started Parkinson's Disease rehabilitation research in 1983 while serving as Assistant Professor on tenure track in the Department of Speech, Language and Hearing Science at the University of Colorado-Boulder. Dr. Ramig was approached by colleague Dr. Wilbur Gould who requested her assistance in treating a friend, Mrs. Lee Silverman. The Voice Treatment consisted of four weeks of rigorous therapy, entailing four one-hour sessions per week, with the goal of increasing patient's voice and speech abilities. Dr. Ramig officially founded the Lee Silverman Voice Treatment program LSVT Global in 1985 in honor of the first patient who died before research was officially published and recognized as a medical discovery.
 
+![alt](https://parkinsonsdisease.net/wp-content/uploads/2019/03/chronic-pain-management-9635-custom@2x.gif)
+
 ## Objective
 Our Goal (My Project): LSVT Voice Rehabilitation which stands for “Lee Silverman Voice Treatment” is the one of the treatments for it’s of the symptoms i.e., low voice. Through our datasets we will try to find out. Assess whether voice rehabilitation treatment leads to phonations considered 'acceptable' or 'unacceptable'.
 
